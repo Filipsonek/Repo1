@@ -1,2 +1,1 @@
-Sledzone pliki to tylko readme, poniewaz plik .gitignore juz wczesniej zostal
-dodany i scommitowany
+Sledzone pliki to tylko readme, ponieważ w pliku .gitignore wszystkie pliki kończące się na .dat zostały ignorowane.
